@@ -1,0 +1,11 @@
+baseline,metric,n,median_diff,W,p,sig
+CHROM,mae,42,-7.335,134.0,2.74e-05,***
+CHROM,pearson_r,42,0.835,51.0,1.62e-08,***
+POS,mae,42,-6.418,191.0,8.00e-04,***
+POS,pearson_r,42,0.602,66.0,8.80e-08,***
+GREEN,mae,42,-3.862,397.0,5.03e-01,ns
+GREEN,pearson_r,42,0.277,218.0,2.91e-03,**
+ICA,mae,42,-1.87,434.0,8.33e-01,ns
+ICA,pearson_r,42,0.489,204.0,1.52e-03,**
+PCA,mae,42,4.921,268.0,2.10e-02,*
+PCA,pearson_r,42,0.08,419.0,6.92e-01,ns
